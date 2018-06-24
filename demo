@@ -1,4 +1,4 @@
-mkdir github-pages-demo
+mkdir muscledrive
 cd github-pages-demo
 cat > index.html 
 <!DOCTYPE html>
